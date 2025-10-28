@@ -1,0 +1,81 @@
+<mxfile host="drawio-plugin" modified="2025-10-28T17:45:17.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pUdtv7WewZh94JkEismj" version="22.1.22" type="embed" pages="2">
+  <diagram id="23iRSUPoRavnBvh4doch" name="Page-1">
+    <mxGraphModel dx="1136" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Notebook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="254" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Databrick" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Data Factory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Configure Cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;h1&gt;Oportunidades&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441" y="124" width="188" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Databrick Associate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="375" y="209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Delta Live Table" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="549" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5MUnpJ7wzagHnYR9NVIn" name="Cluster">
+    <mxGraphModel dx="1296" dy="1152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="japxUvlg_OaSQbmz4G_u-1" value="Standar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-2" value="Premium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="-94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-3" value="Trial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-4" value="Cluster" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="10" width="272" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-5" value="Cluster Interactive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-6" value="Job Cluster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-7" value="Pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-8" value="Cluster Multi Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="99" width="253" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-9" value="Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-10" value="1 Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-11" value="1 Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-12" value="Cluster Single Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="261" width="253" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-13" value="Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="334" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="japxUvlg_OaSQbmz4G_u-14" value="Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="334" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
